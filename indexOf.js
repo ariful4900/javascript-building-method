@@ -7,4 +7,4 @@ const srchTerm = "dog";
 
 const idxofFirst = paragraph.indexOf(srchTerm);
 
-console.log(idxofFirst + 1);
+console.log(idxofFirst);
