@@ -2,8 +2,21 @@
 
 **_practice javascript_**
 
-## Number Method
+## Array Method
 
-- [x] Number.isNaN()
-- [x] Number.parseFloat()
-- [x] Number.parseinit()
+- [x] Array.concat()
+- [x] Array.every()
+- [x] Array.filter()
+- [x] Array.find()
+- [x] Array.findIndex()
+- [x] Array.forEach()
+- [x] Array.IndexOf()
+- [x] Array.pop()
+- [x] Array.push()
+- [x] Array.reduce()
+- [x] Array.reverse()
+- [x] Array.shift()
+- [x] Array.slice()
+- [x] Array.sort()
+- [x] Array.splice()
+- [x] Array.unshift()
