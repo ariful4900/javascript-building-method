@@ -2,21 +2,11 @@
 
 **_practice javascript_**
 
-## Array Method
+## Object Method
 
-- [x] Array.concat()
-- [x] Array.every()
-- [x] Array.filter()
-- [x] Array.find()
-- [x] Array.findIndex()
-- [x] Array.forEach()
-- [x] Array.IndexOf()
-- [x] Array.pop()
-- [x] Array.push()
-- [x] Array.reduce()
-- [x] Array.reverse()
-- [x] Array.shift()
-- [x] Array.slice()
-- [x] Array.sort()
-- [x] Array.splice()
-- [x] Array.unshift()
+- [x] Object.create()
+- [x] Object.assign()
+- [x] Object.freeze();
+- [x] Object.keys();
+- [x] Object.seal();
+- [x] Object.values()
